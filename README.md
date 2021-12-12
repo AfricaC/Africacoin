@@ -1,0 +1,2 @@
+# Africacoin
+Coin
